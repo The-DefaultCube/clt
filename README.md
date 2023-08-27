@@ -1,0 +1,2 @@
+# clt
+central limit theorem
